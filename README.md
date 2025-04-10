@@ -12,8 +12,6 @@ In this game development project, it took an inspiration from the classic super 
 * Moving enemy and platforms: Player has to avoid the enemy when the enemy is moving. Using the collision detection method, to enable the feature when the player hits the enemy the player will lose a life.
 * Life count: Player life counter
 
-# Challenges faced and discoveries made
-
 # Game Demo
 ![gameproject](https://github.com/user-attachments/assets/6b216a68-4d51-4ab6-963b-8c160e75f38d)
 
