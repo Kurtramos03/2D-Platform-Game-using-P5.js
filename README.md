@@ -1,1 +1,1 @@
-# 2D-Platform-Game-using-P5.js
+# 2D Platform-Game-using-P5.js
