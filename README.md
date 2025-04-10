@@ -12,6 +12,7 @@ In this game development project, it took an inspiration from the classic super 
 # Challenges faced and discoveries made
 
 # Game Demo
+![gameproject](https://github.com/user-attachments/assets/6b216a68-4d51-4ab6-963b-8c160e75f38d)
 
 # Programming languages used
 
